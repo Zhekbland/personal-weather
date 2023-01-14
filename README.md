@@ -7,12 +7,6 @@ Based on the ESP8266 wifi module and Java server on the GKE.
 The main idea is to collect data from sensors that are with a person in various conditions. The system connects to the hotspot of a smartphone, which provides mobility.
 The data is collected on the server and analyzed.
 
-The project is based on two developments: Java and Embedded.
-Based on the ESP8266 wifi module and Java server on the GKE.
-
-The main idea is to collect data from sensors that are with a person in various conditions. The system connects to the hotspot of a smartphone, which provides mobility.
-The data is collected on the server and analyzed.
-
 ***
 
 #### Technology stack:
